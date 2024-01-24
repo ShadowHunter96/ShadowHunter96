@@ -7,18 +7,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowhunter96" alt="shadowhunter96" /></a> </p>
 
-- 🔭 I’m currently working on **internal project in Solutia s.r.o.**  <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif"
+<table>
+<tr>
+<td>
 
+- 🔭 I’m currently working on **internal project in Solutia s.r.o.**
 - 🌱 I’m currently learning **Spring, React, Vaadin, LiquidBase**
-
 - 👯 I’m looking to collaborate on **Java/React projects**
-
 - 🤝 I’m looking for help with **Java/React projects**
-
 - 💬 Ask me about **Spring, React, Vaadin, LiquidBase**
-
 - 📫 How to reach me **marekvu2@email.cz**
 
+</td>
+<td>
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif" />
+
+</td>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
