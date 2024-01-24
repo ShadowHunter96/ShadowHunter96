@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowhunter96" alt="shadowhunter96" /></a> </p>
 
-- 🔭 I’m currently working on **internal project in my company Solutia s.r.o.**
+- 🔭 I’m currently working on **internal project in Solutia s.r.o.**
 
 - 🌱 I’m currently learning **Spring, React, Vaadin, LiquidBase**
 
