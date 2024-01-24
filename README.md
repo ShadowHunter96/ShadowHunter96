@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vu Dai Gia</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif"
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowhunter96&label=Profile%20views&color=0e75b6&style=flat" alt="shadowhunter96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowhunter96" alt="shadowhunter96" /></a> </p>
 
-- 🔭 I’m currently working on **internal project in Solutia s.r.o.**
+- 🔭 I’m currently working on **internal project in Solutia s.r.o.**  <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif"
 
 - 🌱 I’m currently learning **Spring, React, Vaadin, LiquidBase**
 
