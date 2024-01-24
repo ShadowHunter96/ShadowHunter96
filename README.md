@@ -1,22 +1,21 @@
-<h1 align="center">Hi ??, I'm Vu Dai Gia</h1>
+<h1 align="center">Hi 👋, I'm Vu Dai Gia</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
-<img allign="right" alt="Coding" width"400" src"https://gifdb.com/gif/man-quick-system-coding-vgsda2t7d5tu7o9x.html?embed=true"?/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowhunter96&label=Profile%20views&color=0e75b6&style=flat" alt="shadowhunter96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowhunter96" alt="shadowhunter96" /></a> </p>
 
-- ?? I’m currently working on **internal project in my company**
+- 🔭 I’m currently working on **internal project in my company Solutia s.r.o.**
 
-- ?? I’m currently learning **Spring, React, Vaadin, LiquidBase**
+- 🌱 I’m currently learning **Spring, React, Vaadin, LiquidBase**
 
-- ?? I’m looking to collaborate on **Java/React projects**
+- 👯 I’m looking to collaborate on **Java/React projects**
 
-- ?? I’m looking for help with **Java/React projects**
+- 🤝 I’m looking for help with **Java/React projects**
 
-- ?? Ask me about **Spring, React, Vaadin, LiquidBase**
+- 💬 Ask me about **Spring, React, Vaadin, LiquidBase**
 
-- ?? How to reach me **marekvu2@email.cz**
+- 📫 How to reach me **marekvu2@email.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
